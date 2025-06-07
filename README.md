@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/RextechITS/RextechITS/blob/main/rextech.jpg?raw=true" alt="Nwobodo Henry (RexTech)" width="">
+</div>
+
 <p align="center">
   👋 Hi, I'm Nwobodo Henry (RexTech)<br><br>
   Front-End Web Developer | WordPress Developer | HTML | TAILWIND | JS | JQUERY | PHP | MySQL
