@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/RextechITS/RextechITS/blob/main/rextech.jpg?raw=true" alt="Nwobodo Henry (RexTech)" width="">
+  <img src="https://github.com/RextechITS/RextechITS/blob/main/rextech2.jpg?raw=true" alt="Nwobodo Henry (RexTech)" width="">
 </div>
 
 <p align="center">
