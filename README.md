@@ -42,10 +42,17 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rextech1&show_icons=true&theme=radical)](https://github.com/rextech1)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rextech1&layout=compact&theme=radical)](https://github.com/rextech1)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rextech1&theme=radical)](https://git.io/streak-stats)
-
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+  <a href="https://github.com/rextechits">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=rextechits&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/rextechits">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rextechits&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/rextechits">
+    <img height="180" src="https://streak-stats.demolab.com/?user=rextechits&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 ---
 
 ### 📬 Contact  
