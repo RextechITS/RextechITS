@@ -40,8 +40,11 @@
 
 ---
 
-### 📊 GitHub Stats  
-*(Add your GitHub stats here using shields.io or GitHub Actions)*  
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rextech1&show_icons=true&theme=radical)](https://github.com/rextech1)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rextech1&layout=compact&theme=radical)](https://github.com/rextech1)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rextech1&theme=radical)](https://git.io/streak-stats)
 
 ---
 
