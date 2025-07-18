@@ -13,7 +13,11 @@
 - 💼 Front-End and WordPress Developer at Ichie Groups  
 - 🌍 CTO at [DragsDev](https://dragsdev.com.ng)  
 - 🔨 Built and deployed:  
-  - [Ichie Group](https://ichie.io)  
+  - [Ichie Group](https://ichie.io)
+  - [ESO Acdemic Research Institute](https://esoinstitute.com)
+  - [Dgloeke Supplies](https://dgloeke.com)
+  - [Smooth Sailc Construction](https://smoothsailconstruction.com)
+  - [Ani Yolins Nigeeria Limited](https://aniyolins.com) 
   - [Association of National Accountants of Kenya](https://anak.co.ke)  
   - [Kenyan Society of Engineers](https://kse.co.ke)  
   - [WNL Power Solutions](https://wnlpowersolutions.com)  
