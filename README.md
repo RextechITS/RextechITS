@@ -6,6 +6,7 @@
   👋 Hi, I'm Nwobodo Henry (RexTech)<br><br>
   Front-End Web Developer | WordPress Developer | HTML | TAILWIND | JS | JQUERY | PHP | MySQL
 </p>
+- 🌐 Portfolio: [Rex-Henry](https://rex-henry.vercel.app/)  
 
 ---
 
@@ -69,7 +70,7 @@
 ---
 
 ### 📬 Contact  
-- 🌐 Portfolio: [DragsDev](https://dragsdev.com.ng)  
+- 🌐 Portfolio: [Rex Henry](https://rex-henry.vercel.app/)  
 - 📱 WhatsApp: [+2349055549416](https://wa.me/+2349055549416)  
 - 📧 Email: [rextechitsolution@gmail.com](mailto:rextechitsolution@gmail.com)  
 - 💼 Company: [DragsDev](https://dragsdev.com.ng)  
