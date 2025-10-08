@@ -6,12 +6,12 @@
   👋 Hi, I'm Nwobodo Henry (RexTech)<br><br>
   Front-End Web Developer | WordPress Developer | HTML | TAILWIND | JS | JQUERY | PHP | MySQL
 </p>
-- 🌐 Portfolio: [Rex-Henry](https://rex-henry.vercel.app/)  
 
 ---
 
 ### 👨🏾‍💻 About Me
-- 💼 Front-End and WordPress Developer at Ichie Groups  
+- 💼 Front-End and WordPress Developer at Ichie Groups
+- - 🌐 Portfolio: [Rex Henry](https://rex-henry.vercel.app/)  
 - 🌍 CTO at [DragsDev](https://dragsdev.com.ng)  
 - 🔨 Built and deployed:  
   - [Ichie Group](https://ichie.io)
