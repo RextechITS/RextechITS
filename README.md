@@ -13,8 +13,10 @@
 - 💼 Front-End and WordPress Developer at Ichie Groups
 - - 🌐 Portfolio: [Rex Henry](https://rex-henry.vercel.app/)  
 - 🌍 CTO at [DragsDev](https://dragsdev.com.ng)  
-- 🔨 Built and deployed:  
+- 🔨 Built and deployed:
   - [Ichie Group](https://ichie.io)
+  - [Kevona AI](https://kevona.ai) 
+  - [Yogicescape Yoga Berlin](https://yogicescape.com)
   - [ESO Acdemic Research Institute](https://esoinstitute.com)
   - [Dgloeke Supplies](https://dgloeke.com)
   - [Smooth Sailc Construction](https://smoothsailconstruction.com)
