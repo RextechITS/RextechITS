@@ -4,7 +4,7 @@
 
 <p align="center">
   👋 Hi, I'm Nwobodo Henry (RexTech)<br><br>
-  Front-End Web Developer | WordPress Developer | HTML | TAILWIND | JS | JQUERY | PHP | MySQL | LARAVEL | REACT JS
+  Front-End Web Developer | WordPress Developer | HTML | TAILWIND | JS | JQUERY | PHP | MySQL | LARAVEL | REACT JS | ALPINE JS
 </p>
 
 ---
